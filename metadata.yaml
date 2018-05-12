@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '32379'
     url: http://www.gutenberg.org/2009/agents/32379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40503#History-of-the-State-of-Californiaby-the-United-States-of-America
 gutenberg_issued: '2012-08-14'
 gutenberg_type: Text
 identifiers:
