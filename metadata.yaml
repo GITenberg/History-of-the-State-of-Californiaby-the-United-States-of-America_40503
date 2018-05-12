@@ -1,0 +1,31 @@
+_repo: History-of-the-State-of-Californiaby-the-United-States-of-America_40503
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frost, John
+    aliases:
+    - Moore, William V.
+    - Frost, J. (John)
+    birthdate: 1800
+    deathdate: 1859
+    gutenberg_agent_id: '32379'
+    url: http://www.gutenberg.org/2009/agents/32379
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Gold discoveries'
+- !lcsh 'California -- History'
+- !lcc 'F850.5'
+title: "History of the State of California\r\nFrom the Period of the Conquest by Spain\
+  \ to Her Occupation by the United States of America"
+url: http://www.gutenberg.org/ebooks/40503
